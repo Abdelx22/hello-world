@@ -1,2 +1,5 @@
 # hello-world
-Just blah blah
+write a bit about yourself
+Name:
+Occupation:
+...
